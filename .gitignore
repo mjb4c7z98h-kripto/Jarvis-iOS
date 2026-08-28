@@ -1,0 +1,25 @@
+# Xcode
+DerivedData/
+build/
+*.pbxuser
+*.xcworkspace/
+*.xcodeproj/
+*.xcworkspace/
+.DS_Store
+
+# Swift
+.swiftpm/
+*.xcframework/
+
+# Config
+Jarvis/Config/Config.swift
+
+# Dependencies
+Pods/
+
+# IDE
+.vscode/
+*.swiftlint
+
+# Misc
+*.log
